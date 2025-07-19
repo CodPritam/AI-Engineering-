@@ -1,6 +1,4 @@
-Certainly! Here’s a captivating README section for your personal chatbot creation project:
 
----
 
 # 🚀 First Step Towards AI Engineering: Personal Chatbot Creation 🤖
 
